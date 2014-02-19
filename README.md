@@ -4,4 +4,4 @@
 
 3. redis-cli 툴을 이용해서 간단하게 publish 명령을 이용해 테스트 한다.
 
-	##./redis-cli -a password publish "test-channel" "test message"
+	####./redis-cli -a password publish "test-channel" "test message"
